@@ -112,7 +112,7 @@ function provisioning_start() {
     ARGS_COMBINED="${PLATFORM_ARGS} $(cat /etc/forge_args.conf) ${PROVISIONING_ARGS}"
     
     # Start and exit because webui will probably require a restart
-    cd /opt/stable-diffusion-webui
+    cd /opt/stable-diffusion-webui-forge
         source "$FORGE_VENV/bin/activate"
         LD_PRELOAD=libtcmalloc.so python launch.py \
             ${ARGS_COMBINED}
