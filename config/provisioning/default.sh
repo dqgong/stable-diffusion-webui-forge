@@ -47,6 +47,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/458893?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/330475?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/540527?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/600608?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
