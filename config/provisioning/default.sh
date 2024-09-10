@@ -33,7 +33,7 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor&token=bae2dcba2dea0c88b8ae3787fc3a749d"
+    "https://civitai.com/api/download/models/436121?type=Model&format=SafeTensor&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     "https://civitai.com/api/download/models/382152?type=Model&format=SafeTensor&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     "https://civitai.com/api/download/models/333607?type=Model&format=SafeTensor&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     "https://civitai.com/api/download/models/389962?type=Model&format=SafeTensor&token=bae2dcba2dea0c88b8ae3787fc3a749d"
