@@ -25,7 +25,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
-    "https://civitai.com/api/download/models/531417?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=bae2dcba2dea0c88b8ae3787fc3a749d"
+    "https://civitai.com/api/download/models/706363?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     "https://civitai.com/api/download/models/384264?type=Model&format=SafeTensor&size=full&fp=fp16&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     "https://civitai.com/api/download/models/597138?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=bae2dcba2dea0c88b8ae3787fc3a749d"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
