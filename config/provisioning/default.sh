@@ -20,9 +20,6 @@ PIP_PACKAGES=(
 )
 
 EXTENSIONS=(
-    "https://github.com/Bing-su/adetailer"
-    "https://github.com/hako-mikan/sd-webui-regional-prompter"
-
 )
 
 CHECKPOINT_MODELS=(
